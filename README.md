@@ -5,7 +5,7 @@
 - I currently work as a product designer, graphic designer, and front-end dev 
 
 ## Contact
-You can get in touch with me at [linktr.ee/giannacrisha](linktr.ee/giannacrisha)!
+You can get in touch with me at [linktr.ee/giannacrisha](https://linktr.ee/giannacrisha)!
 <!--
 **giannacrisha/giannacrisha** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
