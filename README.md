@@ -1,12 +1,12 @@
 # Hi, I'm Gi (she/they)! 👋
-
+<!--
 ## About Me
 - I'm pursuing a double major in Public Health and International & Global Studies + a double minor in Legal Studies and Creativity, Arts, & Social Transformation at Brandeis University as a Wien International Scholar
 - I currently work as a product designer, graphic designer, and front-end dev 
 
 ## Contact
 You can get in touch with me at [linktr.ee/giannacrisha](https://linktr.ee/giannacrisha)!
-<!--
+
 **giannacrisha/giannacrisha** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
