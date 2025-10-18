@@ -1,10 +1,7 @@
-# Hi, I'm Gi (she/her)! 👋
+# Hi, I'm Gi (she/her)! ✨
 
 ## tl;dr: techy + artsy
 Anthropology + Psychology + Business major @ Brandeis. obsessed with design—whether it's systems, policies, or campaigns. always excited (sometimes TOO excited), so please send a message! love to collaborate.
-
-## talk to me pls
-[linkedin.com/in/giannacrisha/](https://linkedin.com/in/giannacrisha/)
 
 <!--
 **giannacrisha/giannacrisha** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
