@@ -4,4 +4,4 @@ I'm a designer and creative technologist at Brandeis University, studying Anthro
 
 **Open to:** Summer 2027 internships in design engineering, product design, and project management.
 
-[Portfolio](https://giannacrisha.com) · [Email](mailto:giannacrisha@gmail.com)
+[Portfolio](https://giannacrisha.com) · [Email](mailto:giannacrisha@gmail.com) · [LinkedIn](https://www.linkedin.com/in/giannacrisha)
